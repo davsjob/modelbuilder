@@ -11,6 +11,8 @@ Please open issues so they can be resolved and the **ModelBuilder** can be impro
 **WARNING**
 
 ---
+## INFO
+
 **PharmpyModelbuilder** is a **user interface** with the aim to provide a more graphical approach to using most of [Pharmpy](https://pharmpy.github.io/latest/index.html)'s functionality.
 A user can thus create a basic model, make changes in it and **live** see how it affects the model code. 
 
